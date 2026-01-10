@@ -11,6 +11,7 @@ Description: Contains structured data for multiple countries worldwide, includin
 
 🔍 Problems Solved
 
+
 Identified the African country with the highest population
 Calculated how many countries have “Republic” in their official name
 Found the number of countries whose political leaders are unknown
