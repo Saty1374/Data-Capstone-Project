@@ -1,33 +1,46 @@
-🌍 Data Capstone Project
+## 🌍 DATA CAPSTONE PROJECT
 
-This repository contains a data analysis and feature extraction project built using Python, Pandas, and NumPy on a comprehensive countries.csv dataset. The dataset includes detailed information about countries across the world, covering demographics, political data, regions, and other attributes.
+---
 
-The goal of this project is to extract insights by solving real-world data questions using efficient data manipulation and analysis techniques.
+## 📌 PROJECT DESCRIPTION
 
-📁 Dataset
-File: countries.csv
+This project focuses on data analysis and feature extraction using a comprehensive **countries dataset**. The dataset contains detailed information about countries worldwide, including demographics, political data, regions, and other attributes.
 
-Description: Contains structured data for multiple countries worldwide, including population, region, political leadership, and official country names.
+The objective of this project is to solve real-world data problems and extract meaningful insights using efficient data manipulation and analysis techniques.
 
-🔍 Problems Solved
+---
 
+## 📂 DATASET OVERVIEW
 
-Identified the African country with the highest population
-Calculated how many countries have “Republic” in their official name
-Found the number of countries whose political leaders are unknown
-Performed filtering, aggregation, and conditional analysis on global data
+- **Dataset File:** countries.csv  
+- **Data Type:** Structured Tabular Data  
+- **Scope:** Global country-level information  
 
-🛠️ Tools & Technologies
+The dataset includes attributes such as population, region, political leadership, and official country names.
 
-Python
-Pandas
-NumPy
-Jupyter Notebook / VS Code
+---
 
-📌 Key Concepts Used
+## 🔍 PROBLEMS SOLVED
 
-Data cleaning and preprocessing
-Feature extraction
-Boolean filtering and conditional queries
-Aggregation and descriptive analysis
+- Identified the African country with the highest population  
+- Calculated the number of countries with “Republic” in their official name  
+- Found countries with unknown political leadership  
+- Performed filtering, aggregation, and conditional analysis on global data  
 
+---
+
+## 🛠️ TOOLS & TECHNOLOGIES USED
+
+- **Python**  
+- **Pandas** – Data Manipulation  
+- **NumPy** – Numerical Operations  
+- **Jupyter Notebook / VS Code** – Development Environment  
+
+---
+
+## 📌 KEY CONCEPTS USED
+
+- Data Cleaning & Preprocessing  
+- Feature Extraction  
+- Boolean Filtering & Conditional Queries  
+- Aggregation & Descriptive Analysis  
